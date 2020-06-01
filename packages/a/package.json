@@ -7,7 +7,6 @@
     "build": "tsc"
   },
   "main": "lib/index.js",
-  "typings": "src/index.ts",
   "directories": {
     "lib": "lib"
   },
